@@ -1,0 +1,10 @@
+## MADE BY T. ##
+
+1. run the included bash script
+2. Provide the IP address
+3. Wait for the program to give you 3 unique coordinates, then go to
+   http://geo.javawa.nl/coordcalc/index_en.html and select 'Intersection point of three
+   circles'. Enter the coordinates you got in the bottom left text box/s, and play
+   with the radius option to narrow down or widen the search area.
+
+You have now successfully triangulated an approximate location from just an IP address!
